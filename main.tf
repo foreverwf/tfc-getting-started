@@ -15,7 +15,7 @@
 
 
 resource "fakewebservices_vpc" "primary_vpc" {
-  name       = "Primary VPC"
+  name       = "Primary VPC1"
   cidr_block = "0.0.0.0/1"
 }
 
